@@ -1,2 +1,2 @@
-This tex file contains the source code for my resume.
-This was one of the template on Overleaf and I changed the code according to my needs.
+This tex file contains the source code for my resume.I found this template on Overleaf.
+I don't own the entire code but I changed the code according to my needs.
